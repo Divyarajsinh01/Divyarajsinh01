@@ -1,16 +1,53 @@
-## Hi there 👋
+## 👋 Hey, I'm Divyarajsinh Rayjada
+I'm a MERN Stack Developer passionate about building fast, scalable, and user-friendly web applications.
 
-<!--
-**Divyarajsinh01/Divyarajsinh01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🧰 Toolbox
+📝 Languages
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Front-end
+
+
+
+
+
+
+
+
+🔧 Back-end
+
+
+
+
+
+🗄️ Databases
+
+
+⚙️ Tools & Utilities
+
+
+
+☁️ Deployment & Hosting
+
+
+
+
+
+
+
+
+🤖 AI & Developer Tools
+
+
+
+
+
+
+🌟 Soft Skills
+Communication & Collaboration
+
+Team Management & Adaptability
+
+Problem Solving & Time Management
+
+Creativity & Ownership
