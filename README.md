@@ -40,9 +40,9 @@ I'm a MERN Stack Developer passionate about building fast, scalable, and user-fr
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" height="40" alt="express logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" height="40" alt="socketio logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original-wordmark.svg" height="40" alt="socketio logo"  />
 </div>
 
 ###
@@ -109,17 +109,14 @@ I'm a MERN Stack Developer passionate about building fast, scalable, and user-fr
 
 ###
 
-<div align="right">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=Created%20with%20%F0%9F%A7%A1%20by%20Rahul%20Baraiya&theme=dark" alt="Layout with last medium posts"  />
-</div>
+<h6 align="left">📫 Contact</h6>
 
 ###
 
-🌟 Soft Skills
-Communication & Collaboration
+<p align="left">For a quick response, DM me on LinkedIn.</p>
 
-Team Management & Adaptability
+###
 
-Problem Solving & Time Management
+<p align="right">Created with 🧡 by Divyarajsinh Rayjada</p>
 
-Creativity & Ownership
+###
