@@ -101,19 +101,11 @@ I'm a MERN Stack Developer passionate about building fast, scalable, and user-fr
 
 ###
 
-<div align="left">
-  <a href="www.linkedin.com/in/divyarajsinh-rayjada-aa695025b" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-</div>
-
-###
-
 <h6 align="left">📫 Contact</h6>
 
 ###
 
-<p align="left">For a quick response, DM me on LinkedIn.</p>
+<p align="left">For a quick response, DM me on <a target="_blank" href="www.linkedin.com/in/divyarajsinh-rayjada-aa695025b" style="display: inline-block;">LinkedIn</a></p>
 
 ###
 
